@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Progress 👋
 
-<!--
-**Progress-aus/Progress-aus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business IT Graduate (June 2026)** based in Sydney, Australia.
 
-Here are some ideas to get you started:
+I work at the intersection of **business analysis** and **AI tools** — building practical analytical software, running strategic case studies, and developing Power BI dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently
+- Finishing my Bachelor of Information Technology (Business major) at SISTC
+- Building AI-augmented analytical tools (see pinned repo below)
+- Open to Junior Business Analyst / Junior Data Analyst roles in Sydney
+
+### 🛠️ What I work with
+- **Business Intelligence:** Power BI (DAX, RLS, data modelling), Excel
+- **Data:** SQL, Pandas, CSV/JSON workflows
+- **AI:** Claude API, prompt engineering, AI-augmented development
+- **Frameworks:** Pyramid Principle, MECE, Root Cause Analysis, 80/20
+
+### 📫 Reach me
+- **LinkedIn:** [progress-pandey](https://www.linkedin.com/in/progress-pandey/) 
+- **Email:** progresspandey299@gmail.com
+
+---
+*Final-year Business IT student. Eligible for Australian work rights via Temporary Graduate Visa (Subclass 485) from mid-2026.*
